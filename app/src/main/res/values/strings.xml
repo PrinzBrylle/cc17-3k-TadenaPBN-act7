@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">SaBAGUIO</string>
+    <string name="lionshead_title">Lion\'s Head</string>
+    <string name="lionshead_description">A massive sculpture of a lion\'s head that serves as a popular photo spot for visitors and symbolizes the entry to Baguio. It\’s a significant landmark that showcases the city’s rich culture and artistic expression.The Lion\'s Head was built in the late 1970s and has since become a must-visit attraction for tourists.</string>
+    <string name="lionshead_address">Kennon Road, Baguio, 2600 Benguet, Philippines</string>
+    <string name="diplomat_title">Diplomat Hotel</string>
+    <string name="diplomat_description">Once a luxurious hotel, the Diplomat Hotel is now a historical ruin known for its haunting past. It offers breathtaking views of the city and is a popular site for photographers and paranormal enthusiasts. Originally built in 1911, it has served various purposes throughout its history, including a seminary and a refuge during World War II.</string>
+    <string name="diplomat_address">Dominican Hill, Baguio, 2600 Benguet, Philippines</string>
+    <string name="mansion_title">The Mansion</string>
+    <string name="mansion_description">The official summer residence of the President of the Philippines, The Mansion is a grand structure with beautiful gardens. It’s a popular spot for tourists to take pictures, especially with its iconic gates.The current structure was built in 1903, replacing the original summer residence established during the American colonial period.</string>
+    <string name="mansion_address">Upper Session Road, Baguio, 2600 Benguet, Philippines</string>
+    <string name="tamawan_title">Tam-awan Village</string>
+    <string name="tamawan_description">A reconstructed village that showcases the culture and art of the Cordillera region. It features traditional huts, art exhibits, and workshops, allowing visitors to experience indigenous culture firsthand.Established in 1998, Tam-awan Village aims to promote the arts and preserve the cultural heritage of the Cordillera people.</string>
+    <string name="tamawan_address">Longlong, Atok Rd, Baguio, 2600 Benguet, Philippines</string>
+    <string name="pma_title">Philippine Military Academy (PMA)</string>
+    <string name="pma_academy_description">The premier military academy in the Philippines, training future officers of the Armed Forces. The academy features impressive facilities and offers guided tours to educate visitors about military history and training.Founded on February 17, 1905, it has a long history of shaping the nation’s military leaders.</string>
+    <string name="pma_academy_address">Fort Del Pilar, Baguio, 2600 Benguet, Philippines</string>
+    <string name="botanical_title">Botanical Garden</string>
+    <string name="botanical_description">A lush garden showcasing a wide variety of plants, flowers, and sculptures. It’s a peaceful place for leisurely walks and enjoying nature, often frequented by families and tourists.\n" Established in 1906, the garden has been a serene escape in the city for over a century.</string>
+    <string name="botanical_address">South Drive, Baguio, 2600 Benguet, Philippines</string>
+
+
+    <string name="park1_title">Burnham Park</string>
+    <string name="park1_description">Designed by the American architect Daniel Burnham, this park features a man-made lake, gardens, picnic areas, and various recreational activities such as boating and biking. It serves as a central hub for relaxation and leisure in the city. Opened in 1925, it was one of the first parks in Baguio and has been a popular destination for locals and tourists.</string>
+    <string name="park1_address">Burnham Park, Baguio, 2600 Benguet, Philippines</string>
+    <string name="park2_title">Rizal Park</string>
+    <string name="park2_description"> A historic park dedicated to Dr. Jose Rizal, the national hero of the Philippines. It features a monument of Rizal, beautiful gardens, and a playground, making it a great place for families and cultural activities. The park was named and established in honor of Rizal after the country’s independence in the mid-20th century.</string>
+    <string name="park2_address">Rizal Park, Baguio, 2600 Benguet, Philippines</string>
+    <string name="park3_title">Panagbenga Park</string>
+    <string name="park3_description"> This park is associated with the Panagbenga Festival, also known as the Flower Festival, celebrated every February. It features colorful flower displays, sculptures, and areas for cultural activities, attracting both locals and tourists during the festival season. The park was developed as part of the celebration of the Panagbenga Festival, which began in 1996.</string>
+    <string name="park3_address">18/77, Northern Ave</string>
+    <string name="park4_title">Sunshine Park</string>
+    <string name="park4_description">A peaceful park that offers scenic views of the city and surrounding mountains. It features open spaces for relaxation, walking paths, and a playground, making it an ideal spot for families and individuals looking for a serene environment. Built in the 1980s, it has become a popular location for morning exercises and leisure activities.</string>
+    <string name="park4_address">Sunshine Park, Baguio, 2600 Benguet, Philippines</string>
+    <string name="park5_title">Wright Park</string>
+    <string name="park5_description">Known for its Pool of Pines, this park is famous for horseback riding. Visitors can enjoy rides around the park while surrounded by lush pine trees. It also has a swimming pool and several areas for picnics and relaxation.Established in the early 1900s, it has been a favorite among families and tourists for decades.</string>
+    <string name="park5_address">Wright Park, Baguio, 2600 Benguet, Philippines</string>
+
+    <string name="bar1_title">The Ampersand</string>
+    <string name="bar1_description"> A trendy nightlife spot known for its chic ambiance and vibrant atmosphere. It features a mix of craft cocktails, wines, and premium spirits, making it ideal for a lively or relaxed night out</string>
+    <string name="bar1_address">30 Leonard Wood Road, The Camp Building, Baguio City</string>
+    <string name="bar2_title">Hardin</string>
+    <string name="bar2_description">Hardin offers garden vibes and a rooftop bar experience, allowing you to enjoy the chilly Baguio air. The bar is perfect for a laid-back hangout, offering live acoustic music and even accommodating song requests so you can vibe to your favorite hits like you would if you were drinking in your own space.</string>
+    <string name="bar2_address">30 Leonard Wood Road, The Camp Building, Cabinet Hill-Teacher’s Camp, Baguio City, Benguet</string>
+    <string name="bar3_title">Lockdown</string>
+    <string name="bar3_description">Lockdown, an indoor-outdoor bar located at the foodpark Cholo’s Gastropub. This trendy hangout spot has a centralized menu so you can satisfy your every craving with good from different concessionaires, may it be sisig (chopped pork face with onions and chilies) or tacos.</string>
+    <string name="bar3_address">Cholo’s Gastropub, 2 M.H. Del Pilar Street, Baguio City, Benguet</string>
+    <string name="bar4_title">Spade Super Bar</string>
+    <string name="bar4_description">A hotspot for energetic nightlife featuring a spacious dance floor, EDM, hip-hop, and Top 40 hits. It\'s a go-to venue for a lively and electrifying evening</string>
+    <string name="bar4_address">Kisad Road, Crown Legacy Hotel, Baguio City</string>
+    <string name="bar5_title">Alberto’s Bar </string>
+    <string name="bar5_description">The bar offers live music varying from Baguio’s well-loved American country songs to Cordilleran music. You might want to put your dancing pants on before you go so you can follow the locals’ dance steps to the songs.</string>
+    <string name="bar5_address">Carino Street, Baguio City, Benguet</string>
+
+
+    <string name="shop1_title">Porta Vage Mall</string>
+    <string name="shop1_description">A popular mall in the heart of the city that features various retail shops, dining establishments, and a supermarket. It is frequented by locals and tourists for its accessible location and diverse offerings. Opened in the late 1990s.</string>
+    <string name="shop1_address">Session Road, Baguio, 2600 Benguet, Philippines</string>
+    <string name="shop2_title">SM Baguio</string>
+    <string name="shop2_description">The largest shopping mall in Baguio, SM City Baguio is situated on a hillside and offers a wide range of shopping, dining, and entertainment options, along with stunning views of the surrounding mountains. Opened in 2003.</string>
+    <string name="shop2_address">Upper Session Rd, Baguio, 2600 Benguet, Philippines</string>
+    <string name="shop3_title">Baguio Centermall</string>
+    <string name="shop3_description">This mall offers a mix of local and international brands along with food stalls. It is known for its lively atmosphere and accessibility to various public transport options. Established in 2002.</string>
+    <string name="shop3_address">25, Magsaysay Avenue, Baguio, 2600 Benguet, Philippines</string>
+    <string name="shop4_title">Abanao Square</string>
+    <string name="shop4_description"> A shopping center that is popular for its local products, crafts, and restaurants. It’s an excellent place for visitors to buy souvenirs and experience local culture. Opened in 2008.</string>
+    <string name="shop4_address">Abanao St, Baguio, 2600 Benguet, Philippines</string>
+
+
+    <string name="church1_title">Baguio Cathedral of Our Lady of the Atonement</string>
+    <string name="church1_description">This is the largest cathedral in Baguio, known for its stunning neo-Gothic architecture and panoramic views of the city. It is a popular spot for both locals and tourists and serves as the main church of the Archdiocese of Baguio. The original structure was built in 1903 and has undergone several renovations.</string>
+    <string name="church1_address">Cathedral Loop, Baguio, 2600 Benguet, Philippines</string>
+    <string name="church2_title">Church of Our Lady of Lourdes</string>
+    <string name="church2_description">A serene and beautiful church known for its peaceful ambiance and lovely gardens. It is a popular place for worship and also a favorite for weddings due to its picturesque setting. Established in the early 1960s.</string>
+    <string name="church2_address">115, Magsaysay Avenue, Baguio, 2600 Benguet, Philippines</string>
+    <string name="church3_title">Pink Sisters Convent and Chapel</string>
+    <string name="church3_description">The convent is known for its distinctive pink chapel and the presence of the Holy Spirit Sisters. It is a place of retreat and prayer, attracting visitors seeking peace and spiritual solace. The chapel was built in 1984.</string>
+    <string name="church3_address">330, Asin Road, Baguio, 2600 Benguet, Philippines</string>
+    <string name="church4_title">St. Vincent Ferrer Church</string>
+    <string name="church4_description">This church is known for its stunning architecture and is a significant landmark in the area. It provides a serene environment for worship and reflection. Established in 1988.</string>
+    <string name="church4_address">Along the Halsema Highway, Baguio, 2600 Benguet, Philippines</string>
+    <string name="church5_title">San Lorenzo Ruiz Parish Church</string>
+    <string name="church5_description">A vibrant parish church that caters to a large community of faithful. It hosts various religious activities and community events. The church was established in the early 1980s.</string>
+    <string name="church5_address">262, 30th St, Baguio, 2600 Benguet, Philippines</string>
+
+
+    <string name="landmarks_category">Landmarks</string>
+    <string name="bars_category">Bars</string>
+    <string name="parks_category">Parks</string>
+    <string name="shops_category">Shopping Centers</string>
+    <string name="churches_category">Churches</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="categories">Categories</string>
+    <string name="Baguio">Baguio City</string>
+    <string name="baguio_description">Escape the tropical heat and discover the enchanting allure of Baguio City, the Philippine Summer Capital. Nestled amidst mist-kissed mountains, this highland retreat offers a refreshing escape with its cool climate, stunning natural beauty, and vibrant cultural heritage. Explore lush pine forests, serene parks, and historic landmarks, or indulge in delectable local cuisine and unique shopping experiences. Whether you seek adventure, relaxation, or cultural immersion, Baguio City promises an unforgettable journey.</string>
+</resources>
